@@ -2,7 +2,7 @@ import random
 
 list = []
 
-print('Welcome to Randomizer - It will andomly choose one option for you.')
+print('Welcome to Randomizer - It will randomly choose one option for you.')
 
 def validate(message):
     while True:
